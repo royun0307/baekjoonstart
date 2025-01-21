@@ -1,5 +1,4 @@
-# baekjoonstartto1000
+# baekjoonstart
 
 This is solving algorithm promblem in baekjoon using c++. 
-according to the order of the problems.
-as possible...
+as possible as...
